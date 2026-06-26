@@ -5,6 +5,7 @@ authors:
   - family-names: "Emin"
     given-names: "Fatma"
 repository-code: "https://github.com/eminfe/drizzle-state-modis-nc-bias"
+doi: 10.5281/zenodo.20945708
 version: "1.0.0"
 date-released: "2026-06-26"
 license: "MIT"
