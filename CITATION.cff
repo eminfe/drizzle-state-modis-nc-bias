@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Analysis pipeline for drizzle-state dependence of MODIS cloud droplet number retrieval bias"
+authors:
+  - family-names: "Emin"
+    given-names: "Fatma"
+repository-code: "https://github.com/eminfe/drizzle-state-modis-nc-bias"
+version: "1.0.0"
+date-released: "2026-06-26"
+license: "MIT"
