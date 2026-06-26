@@ -165,4 +165,4 @@ If you use this code or the derived datasets, please cite both the manuscript
 above and this archived release:
 
 > Emin, F. (2026). *Cross-campaign MODIS–aircraft Nc drizzle-state analysis
-> pipeline* (Version 1.0.0) [Software]. Zenodo. https://doi.org/[Zenodo DOI]
+> pipeline* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20945708
